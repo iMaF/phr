@@ -1,0 +1,6 @@
+{
+  "name": "Maldives Guest House HR Journey Portfolio",
+  "description": "Comprehensive HR Employee Journey Portfolio for Guest Service Agent (Front Office / Island Host) at a 10-room boutique guest house in the Maldives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
